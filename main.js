@@ -333,4 +333,9 @@ function buildWatched(movie) {
   result += movie.rating + " Stars";
   return result;
 }
-//
+
+// ================================================
+// DOM Manipulation
+// let tag = document.getElementById("highlight");
+// let tagTwo = document.getElementsByClassName("bolded");
+// let tagThree = document.getElementsByTagName("li");
